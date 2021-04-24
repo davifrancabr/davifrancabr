@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davifrancabr
 - 👀 I'm interested in learning Python, C, Java and improving the codes, in that, I already practice 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C#
 
 
 <!---
