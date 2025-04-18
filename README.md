@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @davifrancabr
-- 👀 I'm interested in learning Python, C, Java and improving the codes, in that, I already practice 
-- 🌱 I’m currently learning Python, C#
-
+- 👀 Learning React.js, Node.js, Next.js, C#
 
 <!---
 davifrancabr/davifrancabr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
