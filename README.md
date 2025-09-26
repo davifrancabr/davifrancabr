@@ -20,7 +20,7 @@
 
 ## 📂 Projetos em Destaque
 
-- 🎵 **Streamily** – Clone do Spotify com autenticação própria  
+- 🎵 **Streamily** – Clone do Spotify com autenticação
 
 ---
 
