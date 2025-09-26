@@ -11,7 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=fff)
-![Next-js]([https://img.shields.io/badge/Hono-FE4B00?style=for-the-badge&logo=hono&logoColor=fff](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js))
+![Next-js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-FFCC00?style=for-the-badge&logo=drizzle&logoColor=000)
