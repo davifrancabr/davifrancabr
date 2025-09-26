@@ -21,9 +21,6 @@
 ## 📂 Projetos em Destaque
 
 - 🎵 **Streamily** – Clone do Spotify com autenticação própria  
-- 📺 **AnimeFlix** – Plataforma de streaming de animes  
-- ✈️ **Flight Manager** – Ferramenta para cálculo e rastreamento de voos  
-- 🛠️ **CLIs em Node/TS** – Geradores de templates e automações  
 
 ---
 
@@ -34,13 +31,9 @@
 
 ---
 
-## ✨ Bio Minimalista
-> Fullstack Developer | TypeScript, Node.js & React 🚀  
-
----
 
 ## 📫 Como me encontrar
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/SEU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/davifrancabr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/davicavalcantefranca)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:davicavalcantefranca@gmail.com)
