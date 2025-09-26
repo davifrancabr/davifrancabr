@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @davifrancabr
-- 👀 Learning React.js, Node.js, Next.js, C#
+- Fullstack Developer | TypeScript, Node.js & React 🚀  
+- ☕ Café → 💻 Código → 🚀 Projetos  
+
+## 📫 Como me encontrar
+- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)  
+- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+- Email: seuemail@email.com  
 
 <!---
 davifrancabr/davifrancabr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
