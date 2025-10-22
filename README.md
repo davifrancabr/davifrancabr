@@ -14,7 +14,7 @@
 ![Next-js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-transparent?style=for-the-badge&logo=drizzle&logoColor=6EBD6D)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=6EBD6D)
 ![Prisma ORM](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=fff)
 
 ---
