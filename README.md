@@ -15,7 +15,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-FFCC00?style=for-the-badge&logo=drizzle&logoColor=000)
-![Prisma ORM](https://img.shields.io/badge/Prisma-FFCC00?style=for-the-badge&logo=prisma&logoColor=000)
+![Prisma ORM](https://img.shields.io/badge/Prisma-FFCC00?style=for-the-badge&logo=prisma&logoColor=ddd)
 
 ---
 
