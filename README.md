@@ -17,11 +17,6 @@
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=6EBD6D)
 ![Prisma ORM](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=fff)
 
----
-
-## 📂 Projetos em Destaque
-
-- 🎵 **Streamily** – Clone do Spotify
 
 ---
 
